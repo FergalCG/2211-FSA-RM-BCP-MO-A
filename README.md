@@ -10,8 +10,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
-<!--5. [Scope](#05-scope)
-6. [Arrays I](#06-arrays-I)
+5. [Scope](#05-scope)
+<!--6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
@@ -85,7 +85,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](Lecture-Slides/04-REACTO-Caesar-Cypher.pdf)
 
-<!--**[Live Lecture (REACTO)](https://youtu.be/nRSler1WJbs)**
+**[Live Lecture (REACTO)](https://youtu.be/nRSler1WJbs)**
 
 **[Solution - Caesar Cypher](https://youtu.be/AN2fwt0n454)**
 
@@ -100,7 +100,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](Lecture-Slides/05-Scope.pptx)
 
-**[Live Lecture + Workshop Review](https://youtu.be/yaY7wvap1nw)**
+<!--**[Live Lecture + Workshop Review](https://youtu.be/yaY7wvap1nw)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
