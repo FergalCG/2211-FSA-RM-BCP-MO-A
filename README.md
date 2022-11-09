@@ -12,8 +12,8 @@ Hello! This is where Betsy and Fergal will put all the material for BCP. If any 
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
-<!--7. [Arrays II](#07-arrays-ii)
-8. [Sudoku Validator](#08-sudoku-validator)
+7. [Arrays II](#07-arrays-ii)
+<!--8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
 10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
@@ -111,7 +111,7 @@ Hello! This is where Betsy and Fergal will put all the material for BCP. If any 
 
 [Lecture Slides](Lecture-Slides/06-Arrays-I.pptx)
 
-<!--**[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
+**[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
@@ -122,7 +122,7 @@ Hello! This is where Betsy and Fergal will put all the material for BCP. If any 
 
 [Lecture Slides](Lecture-Slides/07-Arrays-II.pptx)
 
-**[Live Lecture + Workshop Review](https://youtu.be/3qPyLAlVSRk)**
+<!--**[Live Lecture + Workshop Review](https://youtu.be/3qPyLAlVSRk)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
