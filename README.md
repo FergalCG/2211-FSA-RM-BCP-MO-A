@@ -14,8 +14,8 @@ Hello! This is where Betsy and Fergal will put all the material for BCP. If any 
 6. [Arrays I](#06-arrays-I)
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
-<!--9. [Objects](#09-objects)
-10. [Object Methods](#10-object-methods)
+9. [Objects](#09-objects)
+<!--10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
@@ -133,7 +133,7 @@ Hello! This is where Betsy and Fergal will put all the material for BCP. If any 
 
 [Lecture Slides](Lecture-Slides/08-BCP-Sudoku.pptx)
 
-<!--**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
+**[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
 **[Review](https://youtu.be/kYe2oNQmO04)**
 
@@ -146,7 +146,7 @@ Hello! This is where Betsy and Fergal will put all the material for BCP. If any 
 
 [Lecture Slides](Lecture-Slides/09-Objects.pptx)
 
-**[Live Lecture + Review](https://youtu.be/8WO9DpQIPcs)**
+<!--**[Live Lecture + Review](https://youtu.be/8WO9DpQIPcs)**
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
