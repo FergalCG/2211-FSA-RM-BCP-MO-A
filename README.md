@@ -1,6 +1,6 @@
 # 2211-FSA-RM-BCP-MO-A
 
-Hello! This is where Betsy and Fergal will put all the material for BCP. If any of the links don't work don't hesitate to slack one of us to let us know.
+Hello! This is where Betsy and Fergal will put all the material for BCP. If any of the links don't work let us know and we'll fix it.
 
 [![Run on Repl.it](https://repl.it/badge/github/FergalCG/2211-FSA-RM-BCP-MO-A)](https://repl.it/github/FergalCG/2211-FSA-RM-BCP-MO-A)
 
