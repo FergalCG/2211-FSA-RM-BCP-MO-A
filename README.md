@@ -15,13 +15,9 @@ Hello! This is where Betsy and Fergal will put all the material for BCP. If any 
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
-<!--10. [Object Methods](#10-object-methods)
-11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
-12. [Higher Order Functions I](#12-higher-order-functions-i)
-13. [Higher Order Functions II](#13-higher-order-functions-ii)-->
-14. [Recursion I](#14-recursion-i)
-15. [Recursion II](#15-recursion-ii)
-16. <!--[Next Steps](#16-next-steps)-->
+10. [Recursion I](#14-recursion-i)
+11. [Recursion II](#15-recursion-ii)
+<!--12. [Next Steps](#16-next-steps)-->
 
 ## Additional Resources
 
@@ -195,7 +191,7 @@ Hello! This is where Betsy and Fergal will put all the material for BCP. If any 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)-->
 
 
-## **14 Recursion I**
+## **10 Recursion I**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
@@ -206,7 +202,7 @@ Hello! This is where Betsy and Fergal will put all the material for BCP. If any 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
 
-## **15 Recursion II**
+## **11 Recursion II**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
@@ -217,7 +213,7 @@ Hello! This is where Betsy and Fergal will put all the material for BCP. If any 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)
 
 
-## **16 Next Steps**
+## **12 Next Steps**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/landing)
 
